@@ -6,4 +6,4 @@ PCMC-T1 is a physically-constrained deep-learning model for motion correction in
 
 PCMC-T1 was developed by [TCML](https://tcml-bme.github.io/) group.
 
-This work was accepted to MICCAI 2023 (to be held during October 8-12, 2023 in Vancouver, CANADA. 
+This work was accepted to MICCAI 2023 (to be held during October 8-12, 2023 in Vancouver, CANADA). 
