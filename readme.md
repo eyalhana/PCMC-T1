@@ -1,7 +1,6 @@
 
 **The code will be made available in this repository by October 8, 2023.**
 
-
 ## Welcome to the PCMC-T1! 
 Free-breathing myocardial T1 mapping with **P**hysically-**C**onstrained **M**otion **C**orrection
 
