@@ -1,0 +1,48 @@
+# miccai.yaml
+# paths
+path:
+  models_dir: models/
+  load_model: None
+  data_dir_path: data/
+
+# Hyperparameters for model training
+training:
+  lambda_L2: 1
+  lambda_T1: 0
+  lambda_MI: 1
+  lambda_Dice: 0
+
+# Model architecture
+arch:
+  enc_nf:  [16, 32, 32, 32] 
+  dec_nf:  [32, 32, 32, 32, 32, 16, 16] 
+
+# Experiment and run settings
+experiment:
+  fold: 4 #1/2/3/4/5/'all'
+  date_ver: "temp_ver01"
+  mode: "train"  # Options: train / overfit / solver
+  test_batch_size: 1
+  train_batch_size: 8
+  savemodel: true  # Save the model: true or false
+  epochs: 1000
+  steps_per_epoch: 100
+  initial_epoch: 0
+
+
+# Optimizer and regularization settings
+optimizer:
+  lr: 2e-4
+  weight_decay: 1e-5
+
+data_loader:
+  mode: original_mat #original_mat or processed_npy
+
+evaluation:
+  models_path: models/
+  models_names: ['model_group_2602_ver05_KFold0_l2_500.0_lr_0.002_MI_0_T1_1.0_DSC_1000.0_KFOLD_0',\
+                'model_group_2602_ver05_KFold1_l2_500.0_lr_0.002_MI_0_T1_1.0_DSC_1000.0_KFOLD_1',\
+                'model_group_2602_ver05_KFold2_l2_500.0_lr_0.002_MI_0_T1_1.0_DSC_1000.0_KFOLD_2',\
+                'model_group_2602_ver05_KFold3_l2_500.0_lr_0.002_MI_0_T1_1.0_DSC_1000.0_KFOLD_3',\
+                'model_group_2602_ver05_KFold4_l2_500.0_lr_0.002_MI_0_T1_1.0_DSC_1000.0_KFOLD_4']
+  
