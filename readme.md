@@ -1,5 +1,5 @@
-## Welcome to the PCMC-T1! 
-Free-breathing myocardial T1 mapping with **P**hysically-**C**onstrained **M**otion **C**orrection
+# Welcome to the Official Repository of PCMC-T1.
+## [PCMC-T1: Free-breathing Myocardial T1 Mapping with Physically-Constrained Motion Correction](https://arxiv.org/abs/2308.11281), MICCAI 2023
 
 ## What is PCMC-T1?
 $T_1$ mapping is a quantitative magnetic resonance imaging (qMRI) technique that has emerged as a valuable tool in the diagnosis of diffuse myocardial diseases.
