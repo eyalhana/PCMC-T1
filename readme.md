@@ -1,9 +1,22 @@
 # Welcome to the Official Repository of PCMC-T1.
 ## [PCMC-T1: Free-breathing Myocardial T1 Mapping with Physically-Constrained Motion Correction](https://arxiv.org/abs/2308.11281), MICCAI 2023
 
-## News
-04-January-2024: Check out our new paper: "**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**" which is currently under review. This paper enables motion correction in T1 images to generate T1 maps without requiring any model training! As a result, it is compatible with any scanner and protocol.
-https://arxiv.org/pdf/2408.11992
+# 📢 New Paper Announcement!  
+
+We are excited to share our latest research:  
+
+## 📝 **MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**  
+
+✅ **Accepted in the Medical Image Analysis Journal** – Publication coming soon!  
+
+This paper introduces a **motion correction method for T1 mapping** that eliminates the need for model training. It is **compatible with any MRI scanner and protocol**, making robust T1 mapping more accessible.  
+
+### 🚀 Code Release  
+Expected in **Early to Mid-February** – Stay tuned!  
+
+🔗 **Read the preprint:** [arXiv:2408.11992](https://arxiv.org/pdf/2408.11992)  
+
+
 
 ## What is PCMC-T1?
 $T_1$ mapping is a quantitative magnetic resonance imaging (qMRI) technique that has emerged as a valuable tool in the diagnosis of diffuse myocardial diseases.
