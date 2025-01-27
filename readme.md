@@ -3,16 +3,16 @@
 
 # 📢 New Paper Announcement!  
 
-We are excited to share our latest research:  
+27-01-2025: We are excited to share our latest research:  
 
 ## 📝 **MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**  
 
-✅ **Accepted in the Medical Image Analysis Journal** – Publication coming soon!  
+✅ **Accepted in the Medical Image Analysis Journal**  
 
 This paper introduces a **motion correction method for T1 mapping** that eliminates the need for model training. It is **compatible with any MRI scanner and protocol**, making robust T1 mapping more accessible.  
 
 ### 🚀 Code Release  
-Expected in **Early to Mid-February** – Stay tuned!  
+Expected in **Early to Mid-February 2025** – Stay tuned!  
 
 🔗 **Read the preprint:** [arXiv:2408.11992](https://arxiv.org/pdf/2408.11992)  
 
