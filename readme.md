@@ -11,6 +11,12 @@
 
 This paper introduces a **motion correction method for T1 mapping** that eliminates the need for model training. It is **compatible with any MRI scanner and protocol**, making robust T1 mapping more accessible.  
 
+```
+Please cite this article as: E. Hanania, A. Zehavi-Lenz, I. Volovik et al., MBSS-T1: Model-based
+subject-specific self-supervised motion correction for robust cardiac T1 mapping. Medical Image
+Analysis (2025), doi: https://doi.org/10.1016/j.media.2025.103495.
+```
+
 ### 🚀 Code Release  
 Expected in **Early to Mid-February 2025** – Stay tuned!  
 
